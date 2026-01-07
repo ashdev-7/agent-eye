@@ -51,3 +51,10 @@ The reported results show that RMSE values are similar across models, while larg
 ## Interpretability
 
 Attention weights learned by the models were visualized to examine which sensors and which time periods influenced predictions. These visualizations were used for qualitative analysis only and do not claim causal validation.
+
+## Data Usage
+
+This repository contains code and model implementations only.
+
+The NASA CMAPSS dataset is not included in this repository and is subject to its own terms and conditions as provided by NASA.
+
